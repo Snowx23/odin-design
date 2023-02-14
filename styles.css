@@ -39,3 +39,34 @@ body {
 .menu li {
     margin-left: 20px;
 }
+
+.section-2 {
+    background-color: #1F2937;
+    padding: 60px 45px;
+    display: flex;
+    justify-content:left
+}
+
+.section-2-inner {
+    max-width: 400px;
+    margin-left: 55px;
+}
+
+.section-2-inner h1 {
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: bolder;
+    margin: 0;
+}
+
+.section-2-inner p {
+    color: #E5E7EB;
+    font-size: 18px;
+    margin-top: 0;
+}
+
+.section-2 img {
+    padding-left: 250px;
+    margin-left: 190px;
+    background-color: gray;
+}
